@@ -1,2 +1,2 @@
 # Pre-Processing
-Data pre processing codes
+Data pre processing codes for usual analysis, transformations and insights
